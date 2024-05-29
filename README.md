@@ -3,6 +3,9 @@ An approach to predict the application layer DDoS attacks using Machine Learning
 
 Machine Learning model to detect DDoS attacks by identifying and distinguishing between traffic produced by freely accessible tools and legitimate traffic.
 
+# Dataset
+	● Link: https://drive.google.com/file/d/1hzJ8Gdx4yMwbIJlc3v-bloPVV3sPFhiN/view?usp=drive_link
+
 # INTRODUCTION:
       ● A DDoS attack is a type of malicious attack in which an attacker floods the target application with traffic from numerous sources, making the application inaccessible for legitimate users.
       ● Attackers use botnets to send traffic to the application, making it appear as though the traffic originated from different sources. 
